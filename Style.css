@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fffbE6;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background: #f4d03f;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+main {
+    padding: 20px;
+}
+
+button {
+    background: #f39c12;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 10px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #e67e22;
+}
+
+#mensagem {
+    margin-top: 15px;
+    font-style: italic;
+    color: #444;
+    font-size: 1.2em;
+}
+
+footer {
+    background: #f4d03f;
+    padding: 10px;
+    margin-top: 30px;
+}

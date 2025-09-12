@@ -1,9 +1,9 @@
 const mensagens = [
-  "Você é mais forte do que imagina (❤´艸｀❤)",
-  "Nunca se esqueça: sua vida importa (❤ ω ❤)",
-  "Você não está sozinho, estamos juntos (´▽`ʃ♡ƪ)",
+  "Você é mais forte do que imagina 🌼",
+  "Nunca se esqueça: sua vida importa 💛",
+  "Você não está sozinho, estamos juntos 💝",
   "Acredite: dias melhores virão (✿◡‿◡)",
-  "Sempre existe esperança 💖"
+  "Sempre existe esperança 🍀"
 ];
 
 document.getElementById("btnMensagem").addEventListener("click", () => {

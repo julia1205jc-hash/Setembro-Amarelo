@@ -2,15 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: #FFFACD;
-    color: #f5eec3;
+    background: #f3d5a5;
+    color: #5c323e;
     text-align: center;
 }
 
 header {
-    background: #FFFACD;
+    background: #fdbf5c;
     padding: 20px;
-    color: #f5eec3;
+    color: #ba6756;
 }
 
 h1 {
